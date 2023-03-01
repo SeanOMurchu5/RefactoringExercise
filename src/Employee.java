@@ -13,6 +13,7 @@ public class Employee{
 	private String department;
 	private double salary;
 	private boolean fullTime;
+	double g;
 
 	// Create Employee with no details
 	public Employee() {
