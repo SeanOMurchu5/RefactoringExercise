@@ -1,8 +1,8 @@
 /*
  * 
- * This is the definition of the Employee object
+ * This is the definition of the Employee object/
  * 
- * *//
+ * */
 
 public class Employee{
 	private int employeeId;

@@ -34,7 +34,7 @@ public class SearchByIdDialog extends JDialog implements ActionListener {
 
 		JScrollPane scrollPane = new JScrollPane(searchPane());
 		setContentPane(scrollPane);
-
+        
 		getRootPane().setDefaultButton(search);
 		
 		setSize(500, 190);
